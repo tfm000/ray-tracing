@@ -1,2 +1,2 @@
 # ray-tracing
-my ray tracing journey
+my ray tracing journey - only using basic python datastructures for python - i.e. no imports
