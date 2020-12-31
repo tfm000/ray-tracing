@@ -1,0 +1,2 @@
+An updated raytracer, capable of producing HD images and utilising reflected light.
+Uses a recursive depth of 5 for calculating reflections.
